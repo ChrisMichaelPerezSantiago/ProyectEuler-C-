@@ -12,15 +12,15 @@ using namespace std;
     @Date:   5/17/2017
 */
 
-void fibonacci_secuence(int);
+void sum_fibonacci_secuence(int);
 int fibonacci(int);
 
 int main() {
-    fibonacci_secuence(4000000);
+    sum_fibonacci_secuence(4000000);
     return 0;
 }
 
-void fibonacci_secuence(int arg){
+void sum_fibonacci_secuence(int arg){
   int sum = 0;
   int i = 1;
 
