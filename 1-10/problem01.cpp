@@ -22,7 +22,6 @@ int main() {
 
 void multiples(int arg){
   vector<int> v;
-  vector<int> k;
   int sum = 0;
 
   for(int i=0;i<arg;i++){
