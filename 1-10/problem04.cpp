@@ -11,14 +11,14 @@ using namespace std;
 */
 
 bool isPalindrome(int);
-void largestPalindrom(int);
+void largestPalindrome(int);
 
 int main() {
-    largestPalindrom(999);
+    largestPalindrome(999);
     return 0;
 }
 
-void largestPalindrom(int arg){
+void largestPalindrome(int arg){
   int actual;
   int product;
   int last;
